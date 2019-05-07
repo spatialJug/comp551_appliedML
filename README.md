@@ -1,2 +1,2 @@
 # comp551_appliedML
-Completed projects from McGill's comp551 course on applied machine learning
+Projects from McGill's COMP 551 course on applied machine learning; taught by Prof. William Hamilton
