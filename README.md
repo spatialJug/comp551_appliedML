@@ -1,8 +1,11 @@
-# COMP 551: Applied Machine Learning
-Projects from McGill's COMP 551 course on applied machine learning; taught by Prof. William Hamilton. 
+... in progress
 
 
-Four projects were assigned throughout the semester: 1) 
+# Image Classification
+Three examples of image classification are explored:
+
+
+Contained in this repository are three folders, each of which correspond to the above listed projects. 
 
 
 Updated May 2019 to use open data. 
