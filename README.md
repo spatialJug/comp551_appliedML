@@ -1,6 +1,6 @@
 # Using neural networks to classify images
-Three classic applications of image classification are explored to: 
-1) comprehend handwritten numbers using the MNIST dataset; 
+Three classic applications of image classification are explored: 
+1) comprehending handwritten numbers using the MNIST dataset; 
 2) identifying species presence using camera-trap images from Snapshot Serengeti; and 
 3) diagnosing malaria using blood smear images. 
 
