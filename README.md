@@ -1,4 +1,4 @@
-# Applied Machine Learning (COMP 551)
+# COMP 551: Applied Machine Learning
 Projects from McGill's COMP 551 course on applied machine learning; taught by Prof. William Hamilton. 
 
 
