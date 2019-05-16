@@ -1,5 +1,8 @@
 # Using neural networks to classify images
-Three classic applications of image classification are explored to: 1) comprehend handwritten numbers using the MNIST dataset; 2) identifying species presence using camera-trap images from Snapshot Serengeti; and 3) diagnosing malaria using blood smear images. 
+Three classic applications of image classification are explored to: 
+1) comprehend handwritten numbers using the MNIST dataset; 
+2) identifying species presence using camera-trap images from Snapshot Serengeti; and 
+3) diagnosing malaria using blood smear images. 
 
 
 Contained in this repository are three folders, each of which correspond to the above listed projects. Data for all three applications are open:
